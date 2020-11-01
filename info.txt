@@ -3,4 +3,4 @@ add line 2
 add line 3
 add line 4
 branch dev add line 5
-branch master modify line 6
+branch master and dev  modify line 6
